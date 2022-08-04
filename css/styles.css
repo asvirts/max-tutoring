@@ -18,6 +18,11 @@ h1 {
     line-height: 1.5;
 }
 
+h2 {
+    margin-top: 1.5rem;
+    margin-bottom: 1.5rem;
+}
+
 #navbar-title {
     color: #05386b;
     font-family: 'Montserrat', sans-serif;
@@ -36,7 +41,7 @@ h1 {
 /* Navigation Bar */
 
 .navbar {
-    padding-bottom: 4.5rem;
+    padding: 0 0 4.5rem 0;
 }
 
 .navbar-brand {
@@ -60,3 +65,7 @@ h1 {
     font-weight: 400;
     font-size: 1.2rem;
 }
+
+
+/* Buttons */
+
