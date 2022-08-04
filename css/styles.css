@@ -21,13 +21,11 @@ h1 {
 #navbar-title {
     color: #05386b;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
 }
 
 #navbar-title:hover {
     color: #379683;
     font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
 }
 
 #title {
@@ -56,4 +54,9 @@ h1 {
 
 .nav-item {
     padding: 0 18px;
+}
+
+.nav-link {
+    font-weight: 400;
+    font-size: 1.2rem;
 }
