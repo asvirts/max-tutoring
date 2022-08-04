@@ -9,7 +9,7 @@ img.amanda-max {
 }
 
 h1 {
-    color: #2f3e46;
+    color: #edf5e1;
     font-family: 'Montserrat', sans-serif;
     font-size: 3rem;
     font-weight: 900;
@@ -17,10 +17,11 @@ h1 {
 }
 
 #navbar-title {
+    color: #05386b;
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
 }
 
 #title {
-    background-color: #84a98c;
+    background-color: #5cdb95;
 }
