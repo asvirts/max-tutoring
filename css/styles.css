@@ -20,6 +20,8 @@ h1 {
 }
 
 h2 {
+    color: #05386b;
+    font-weight: 600;
     margin-top: 1.5rem;
     margin-bottom: 1.5rem;
 }
@@ -70,3 +72,6 @@ h2 {
 
 /* Buttons */
 
+button {
+    color: #edf5e1;
+}
