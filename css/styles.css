@@ -10,6 +10,7 @@ div.row {
 img.amanda-max {
     border-radius: 50%;
     margin-left: 4rem;
+    width: 60%;
 }
 
 .container-fluid {
@@ -79,5 +80,5 @@ h2 {
 
 button {
     color: #edf5e1;
-    margin-bottom: 5rem;
+    margin: 2% 3% 5% 0;
 }
