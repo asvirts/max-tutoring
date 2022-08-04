@@ -35,3 +35,18 @@ h1 {
 #title {
     background-color: #5cdb95;
 }
+
+
+/* Navigation Bar */
+
+.navbar-brand {
+    color: #05386b;
+    font-family: 'Ubuntu';
+    font-weight: 600;
+}
+
+.navbar-brand:hover {
+    color: #379683;
+    font-family: 'Ubuntu';
+    font-weight: 600;
+}
