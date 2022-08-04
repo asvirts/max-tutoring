@@ -26,6 +26,12 @@ h1 {
     font-weight: 600;
 }
 
+#navbar-title:hover {
+    color: #379683;
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 600;
+}
+
 #title {
     background-color: #5cdb95;
 }
