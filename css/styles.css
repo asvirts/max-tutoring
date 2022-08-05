@@ -58,6 +58,7 @@ h2 {
     font-family: 'Ubuntu';
     font-size: 2.5rem;
     font-weight: 600;
+    margin-left: 2.5rem;
 }
 
 .navbar-brand:hover {
@@ -68,6 +69,11 @@ h2 {
 
 .nav-item {
     padding: 0 18px;
+}
+
+.nav-item-1 {
+    padding: 0 18px;
+    margin-left: 25%;
 }
 
 .nav-link {
