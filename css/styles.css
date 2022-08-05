@@ -11,7 +11,7 @@ div.row {
 img.amanda-max {
     border-radius: 50%;
     height: auto;
-    @media (min-width: 768px) and (max-width: 1199.98px)
+    padding-left: 18px;
 }
 
 .container-fluid {
@@ -21,7 +21,7 @@ img.amanda-max {
 h1 {
     color: white;
     font-family: 'Montserrat', sans-serif;
-    font-size: 4.5rem;
+    font-size: 4rem;
     font-weight: 900;
     line-height: 1.5;
 }
@@ -85,6 +85,13 @@ h2.services {
 .nav-link {
     font-weight: 400;
     font-size: 1.2rem;
+}
+
+/* Description */
+
+.col-lg-6 {
+    padding-left: 0;
+    padding-right: 0;
 }
 
 
