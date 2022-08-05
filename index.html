@@ -184,49 +184,37 @@
 <form action="https://formsubmit.co/andrewvirts@gmail.com" method="POST" class="row g-3">
   <div class="col-md-3">
     <label for="validationCustom01" class="form-label">Parent/Guardian's First Name</label>
-    <input type="text" class="form-control" id="validationCustom01" value="" required>
-    <div class="valid-feedback">
-      Looks good!
-    </div>
+    <input type="text" name="Parent First Name" class="form-control" id="validationCustom01" value="" required>
   </div>
+
   <div class="col-md-3">
     <label for="validationCustom02" class="form-label">Parent/Guardian's Last Name</label>
-    <input type="text" class="form-control" id="validationCustom02" value="" required>
-    <div class="valid-feedback">
-      Looks good!
-    </div>
+    <input type="text" name="Parent Last Name" class="form-control" id="validationCustom02" value="" required>
   </div>
+
   <div class="col-md-3">
     <label for="validationCustom02" class="form-label">Child's First Name</label>
-    <input type="text" class="form-control" id="validationCustom02" value="" required>
-    <div class="valid-feedback">
-      Looks good!
+    <input type="text" name="Child First Name" class="form-control" id="validationCustom02" value="" required>
     </div>
-  </div>
+
   <div class="col-md-3">
     <label for="validationCustom02" class="form-label">Child's Last Name</label>
-    <input type="text" class="form-control" id="validationCustom02" value="" required>
-    <div class="valid-feedback">
-      Looks good!
-    </div>
+    <input type="text" name="Child Last Name" class="form-control" id="validationCustom02" value="" required>
   </div>
+
   <div class="col-md-3">
     <label for="validationCustom03" class="form-label">Child's Age</label>
-    <input type="text" class="form-control" id="validationCustom03" required>
-    <div class="invalid-feedback">
-      Please provide a valid age.
-    </div>
+    <input type="range" name="Age" class="form-control" id="validationCustom03" required>
   </div>
+
   <div class="col-md-3">
     <label for="validationCustom03" class="form-label">School</label>
-    <input type="text" class="form-control" id="validationCustom03" required>
-    <div class="invalid-feedback">
-      Please provide a valid school.
-    </div>
+    <input type="text" name="School" class="form-control" id="validationCustom03" required>
   </div>
+
   <div class="col-md-3">
     <label for="validationCustom04" class="form-label">Grade</label>
-    <select class="form-select" id="validationCustom04" required>
+    <select class="form-select" name="Grade" id="validationCustom04" required>
       <option selected disabled value="">Choose...</option>
       <option>Kindergarten</option>
       <option>1st Grade</option>
@@ -242,26 +230,23 @@
       <option>11th Grade</option>
       <option>12th Grade</option>
     </select>
-    <div class="invalid-feedback">
-      Please select a valid grade.
-    </div>
   </div>
+
   <div class="col-md-3">
     <label for="validationCustom04" class="form-label">Services Requested</label>
-    <select class="form-select" id="validationCustom04" required>
+    <select class="form-select" name="Service Requested" id="validationCustom04" required>
       <option selected disabled value="">Choose...</option>
       <option>Homework Assistance</option>
       <option>One-on-One Tutoring</option>
       <option>Test Prep</option>
       <option>Summer Retention</option>
     </select>
-    <div class="invalid-feedback">
-      Please select a valid grade.
-    </div>
   </div>
+
   <div class="btn-container">
     <button class="btn btn-primary" type="submit">Submit form</button>
   </div>
+
 </form>
 
   </div>
