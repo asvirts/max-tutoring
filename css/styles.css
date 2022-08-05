@@ -21,7 +21,7 @@ img.amanda-max {
 h1 {
     color: white;
     font-family: 'Montserrat', sans-serif;
-    font-size: 3.5rem;
+    font-size: 4.5rem;
     font-weight: 900;
     line-height: 1.5;
 }
@@ -58,7 +58,7 @@ h2.services {
 /* Navigation Bar */
 
 .navbar {
-    padding: 0 0 4.5rem 0;
+    padding: 0 0 4.5rem;
 }
 
 .navbar-brand {
