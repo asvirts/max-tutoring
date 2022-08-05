@@ -11,6 +11,7 @@ div.row {
 img.amanda-max {
     border-radius: 50%;
     height: auto;
+    @media (min-width: 768px) and (max-width: 1199.98px)
 }
 
 .container-fluid {
