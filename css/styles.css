@@ -155,3 +155,7 @@ p.services {
 form {
     margin-top: 3%;
 }
+
+.btn-container {
+    text-align: center;
+}
