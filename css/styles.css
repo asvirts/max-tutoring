@@ -17,10 +17,6 @@ img.amanda-max {
     padding: 3% 15%;
 }
 
-i:hover {
-    color: #5cdb95;
-}
-
 h1 {
     color: white;
     font-family: 'Montserrat', sans-serif;
@@ -30,31 +26,31 @@ h1 {
 }
 
 h2 {
-    color: #05386b;
+    color: #002E00;
     font-weight: 600;
     margin-top: 2rem;
     margin-bottom: 1.5rem;
 }
 
 h2.services {
-    color: #05386b;
+    color: #002E00;
     font-size: 3rem;
     font-weight: 600;
     margin-top: 4rem;
 }
 
 #navbar-title {
-    color: #05386b;
+    color: #002E00;
     font-family: 'Montserrat', sans-serif;
 }
 
 #navbar-title:hover {
-    color: #379683;
+    color: white;
     font-family: 'Montserrat', sans-serif;
 }
 
 #title {
-    background-color: #5cdb95;
+    background-color: #029c05;
 }
 
 
@@ -65,15 +61,14 @@ h2.services {
 }
 
 .navbar-brand {
-    color: #05386b;
+    color: #002E00;
     font-family: 'Ubuntu';
     font-size: 2.5rem;
     font-weight: 600;
-    margin-left: 2.5rem;
 }
 
 .navbar-brand:hover {
-    color: #379683;
+    color: white;
     font-family: 'Ubuntu';
     font-weight: 600;
 }
@@ -84,7 +79,6 @@ h2.services {
 
 .nav-item-1 {
     padding: 0 18px;
-    margin-left: 25%;
 }
 
 .nav-link {
@@ -98,4 +92,15 @@ h2.services {
 button {
     color: #edf5e1;
     margin: 2% 3% 5% 0;
+}
+
+
+/* Services */
+
+i:hover {
+    color: #029c05;
+}
+
+p.services {
+    color: #8c8c8c
 }
