@@ -109,6 +109,14 @@ button {
     margin-top: 3%;
 }
 
+#about2 {
+    padding-bottom: 1%;
+}
+
+#quote {
+    padding-top: 1%;
+}
+
 
 /* Services */
 
@@ -119,3 +127,8 @@ i:hover {
 p.services {
     color: #8c8c8c
 }
+
+
+
+/* Contact */
+
