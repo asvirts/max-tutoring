@@ -159,3 +159,23 @@ form {
 .btn-container {
     text-align: center;
 }
+
+.top-btn {
+    color: white;
+    text-decoration: none;
+}
+
+.top-btn:hover {
+    color: #002E00;
+    text-decoration: none;
+}
+
+.phone {
+    color: #002E00;
+    text-decoration: none;
+}
+
+.phone:hover {
+    color: #029c05;
+    text-decoration: none;
+}
