@@ -1,3 +1,5 @@
+/* Body */
+
 body {
     background-color: white;
     font-family: 'Montserrat', sans-serif;
@@ -38,6 +40,19 @@ h2.services {
     font-size: 3rem;
     font-weight: 600;
     margin-top: 4rem;
+}
+
+hr {
+    border-color: #029c05;
+    border-style: none;
+    border-top-style: dotted;
+    border-width: 10px;
+    margin: 4em auto 4em auto;
+    width: 150px;
+  }
+
+div.hr {
+    margin-top: 2% auto 0 auto;
 }
 
 #navbar-title {
@@ -113,8 +128,13 @@ button {
     padding-bottom: 1%;
 }
 
+h2.quote {
+    color: #029c05;
+}
+
 #quote {
     padding-top: 1%;
+    font-weight: 500;
 }
 
 
